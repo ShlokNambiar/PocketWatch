@@ -1,0 +1,6 @@
+{
+  "name": "PocketWatch",
+  "description": "A bespoke personal finance companion featuring dynamic budget progress, interactive visual charts, automated local transaction management, and an integrated smart AI financial advisor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
